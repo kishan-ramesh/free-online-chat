@@ -2,12 +2,7 @@
 window.onload = function() {
     // Your web app's Firebase configuration
   var firebaseConfig = {
-    apiKey: "AIzaSyDGBVVHkbBJSMgOmewswIWOW-Sil97_frY",
-    authDomain: "chatting-app-dafdf.firebaseapp.com",
-    projectId: "chatting-app-dafdf",
-    storageBucket: "chatting-app-dafdf.appspot.com",
-    messagingSenderId: "997510288054",
-    appId: "1:997510288054:web:36d7192a92603cf4e70c17"
+   //add the code of lines that I shown it in the video.
   };
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
