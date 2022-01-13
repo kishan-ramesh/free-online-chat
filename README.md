@@ -2,7 +2,7 @@ Welcome to my free online chat. web chatting application
 Credit goes to https://www.youtube.com/watch?v=KrGfq0vXEkc&t=908s for js coding.
 Enjoy my free chatting application here is the link www.freeonlinechat.tk.
 
-Here is the link to set up google firebase so that the chats can be visible to all at the same time.
+Here is the link to set up google firebase so that the chats can be visible to all at the same time.This video is also included in the files.
 
 www.freeonlinechat.tk/free-online-chat-video.mp4 please wait video will take some time to load.
 
